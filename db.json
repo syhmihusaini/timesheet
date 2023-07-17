@@ -1,0 +1,66 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "project": "Time sheet",
+      "task": "UI/UX",
+      "dateFrom": "2023-07-16T16:00:00.000Z",
+      "dateTo": "2023-07-17T16:00:00.000Z",
+      "status": "Open",
+      "assignTo": "Mohd Johan",
+      "id": 1
+    },
+    {
+      "project": "time sheet",
+      "task": "entry point",
+      "dateFrom": "2023-07-16T16:00:00.000Z",
+      "dateTo": "2023-07-17T16:00:00.000Z",
+      "status": "Open",
+      "assignTo": "Mohd Johan",
+      "id": 2
+    },
+    {
+      "project": "time sheet",
+      "task": "test",
+      "dateFrom": "2023-07-17T16:00:00.000Z",
+      "dateTo": "2023-07-18T16:00:00.000Z",
+      "status": "Open",
+      "assignTo": "Mohd Johan",
+      "id": 3
+    },
+    {
+      "project": "time sheet",
+      "task": "test2",
+      "dateFrom": "2023-07-19T16:00:00.000Z",
+      "dateTo": "2023-07-20T16:00:00.000Z",
+      "status": "Closed",
+      "assignTo": "Abdul Sarif",
+      "id": 4
+    },
+    {
+      "project": "time sheet",
+      "task": "testing",
+      "dateFrom": "2023-07-01T16:00:00.000Z",
+      "dateTo": "2023-07-02T16:00:00.000Z",
+      "status": "Open",
+      "assignTo": "Mohd Johan",
+      "id": 6
+    }
+  ]
+}
