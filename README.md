@@ -24,7 +24,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 
 
 
-##Back end serve
+## Back end server
 
 1.run json-server --watch db.json --port 3000
 
